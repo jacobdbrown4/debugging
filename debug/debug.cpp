@@ -7,7 +7,7 @@
   		smallarray[i] = 0;
   	}
   }
-  main()
+  int main()
   {
   	int sum = 5;
   	int count = 0;
